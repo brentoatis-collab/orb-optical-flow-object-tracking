@@ -83,6 +83,8 @@ This project demonstrates:
 
 GeeksforGeeks. (2023). Converting color video to grayscale using OpenCV in Python. https://www.geeksforgeeks.org/converting-color-video-to-grayscale-using-opencv-in-python/
 
+GeeksforGeeks. (2023). Feature matching using brute force in OpenCV. https://www.geeksforgeeks.org/feature-matching-using-brute-force-in-opencv/
+
 GeeksforGeeks. (2024). Python OpenCV: Capture video from camera. https://www.geeksforgeeks.org/python-opencv-capture-video-from-camera/
 
 Siromer. (2024). Detecting and tracking objects with ORB algorithm using OpenCV. Medium. https://medium.com/thedeephub/detecting-and-tracking-objects-with-orb-using-opencv-d228f4c9054e
