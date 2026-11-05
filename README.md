@@ -1,3 +1,6 @@
+> **Applied AI portfolio project by Brent Oatis, MBA**
+> Connecting feature matching and motion tracking to process monitoring and asset visibility.
+
 # CST 544 Week 3 – Object Tracking with Feature Matching and Optical Flow
 
 ## Overview
